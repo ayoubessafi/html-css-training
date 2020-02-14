@@ -1,0 +1,137 @@
+body {
+  font-family: "Barlow Condensed", sans-serif;
+  width: 100%;
+ padding-top: 5em;
+}
+
+.intro-div {
+   
+  padding-top: 1em;
+  padding-left: 5em;
+}
+
+#logo {
+  height: 2em;
+  
+}
+
+.paragraph-section {
+  padding-top: 8em;
+}
+
+.paragraph-section h1 {
+  
+}
+
+.paragraph-section span {
+  background-color: black;
+  padding: 0.5em;
+  color: white;
+  border-radius: 50%;
+  margin-right: 2em;
+  
+  
+  
+}
+
+.paragraph-section #first-paragraph {
+  text-transform: uppercase;
+  display: contents;
+  
+  
+ 
+ 
+}
+
+.paragraph-section #last-paragraph {
+  width: 20%;
+  font-size: 1.5em;
+}
+
+.button-section {
+  width: 60%;
+  padding: 4em;
+  padding-left: 0em;
+}
+
+.button-section button {
+
+  background-color: rgb(255, 109, 83);
+  color: white;
+  border:none;
+  padding: 1em;
+  border-radius: 1em;
+}
+.button-section a {
+  text-decoration: none;
+  padding-left: 2em;
+  color: gray;
+}
+
+/* The first section art divs */
+
+.art-div {
+    
+    
+  position: fixed;
+
+  left: 35%;
+  top: 35%;
+}
+
+.art-div img {
+   width: 80%;
+  margin-left: 15%;
+}
+
+.art-div ul {
+  position: fixed;
+  left: 45%;
+  top: 5%;
+}
+
+.art-div ul li {
+  display: inline;
+  padding: 3em ;
+}
+
+.art-div ul li a {
+  text-transform: sans-serif;
+  font-size: 1.4em;
+  text-decoration: none;
+  color: black;
+  font-weight: bolder;
+}
+
+.art-div ul li a:hover {
+    color: slategrey;
+}
+
+.art-div .dotted-circle {
+  
+  
+ 
+  
+  
+    
+}
+
+.art-div .login-grey {
+  color: grey;
+}
+
+/* the second section background gris*/
+.art-background {
+  background-color: rgb(245, 245, 245);
+  width: 50%;
+  height: 40%;
+  position: fixed;
+  left: 45%;
+  top: 5%;
+  border-bottom-left-radius: 3em;
+}
+
+
+
+
+
